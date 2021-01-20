@@ -46,6 +46,9 @@
     <sonar.organization>laurawacrenier</sonar.organization>
     <sonar.host.url>https://squad-3-core.sc-dev.io</sonar.host.url>
     <sonar.login>bcd78dbfd79f2c373930f2745cee48a5da3cd4e0</sonar.login>
+    <sonar.projectKey>laurawacrenier_sonarlint-core</sonar.projectKey>
+    <sonar.organization>laurawacrenier</sonar.organization>
+    <sonar.host.url>https://squad-5-core.sc-dev.io</sonar.host.url>
   </properties>
 
   <dependencyManagement>
